@@ -1,4 +1,4 @@
-export const BDataSchema = {
+const BDataSchema = {
     BusinessName: '',
     BusinessEmail: {
         Previous: '',
